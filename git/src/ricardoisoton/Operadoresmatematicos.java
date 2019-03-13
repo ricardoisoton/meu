@@ -10,12 +10,17 @@ package ricardoisoton;
  * @author 19113081
  */
 public class Operadoresmatematicos {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public static void main(String[] args) {
     
+    int a = 40, b = 20, soma, multi, div, resto, sub;
+        soma = a+b;
+        multi = a*b;
+        div = a/b;
+        resto = a%b;
+        sub = a-b;
+        
+        
+    }
+             
+                
 }
