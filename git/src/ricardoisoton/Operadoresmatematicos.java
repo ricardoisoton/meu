@@ -11,15 +11,13 @@ package ricardoisoton;
  */
 public class Operadoresmatematicos {
 public static void main(String[] args) {
-    
-    int a = 40, b = 20, soma, multi, div, resto, sub;
+int a = 40, b = 20, soma, multi, div, resto, sub;
         soma = a+b;
         multi = a*b;
         div = a/b;
         resto = a%b;
         sub = a-b;
-        
-        
+                
     }
              
                 
