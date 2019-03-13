@@ -18,6 +18,11 @@ int a = 40, b = 20, soma, multi, div, resto, sub;
         resto = a%b;
         sub = a-b;
    
+        if (1==1)
+        {
+        System.out.println ("É verdade")    
+        }
+        }
     }     
 
 }
