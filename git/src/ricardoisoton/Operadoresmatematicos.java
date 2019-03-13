@@ -17,8 +17,6 @@ int a = 40, b = 20, soma, multi, div, resto, sub;
         div = a/b;
         resto = a%b;
         sub = a-b;
-                
-    }
-             
-                
+   
+    }           
 }
