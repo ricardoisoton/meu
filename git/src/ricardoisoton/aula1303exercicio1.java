@@ -35,7 +35,7 @@ public static void main (String[] args) {
     */
     String n = 'ana';
     /*
-    
+    para texto não se usa '' e sim ""
     */
 }
 }
