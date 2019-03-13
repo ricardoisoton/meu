@@ -12,7 +12,7 @@ public class aula1303exercicio1 {
 public static void main (String[] args) {
     int x  = 34.5;
     /*
-    int é para numero inteiro e não decimal
+    int é para numero inteiro e não decimal para decimal se usa float ou double
     */
     boolean resp = x;
     /*
