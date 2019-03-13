@@ -22,7 +22,7 @@ public static void main (String[] args) {
     int y = g;
     y = y + 10;
     /*
-    
+    o y não tem como ser igual a soma dele mesmo
     */
     double t = 45;
     float p = 32.7;
@@ -35,7 +35,7 @@ public static void main (String[] args) {
     */
     String n = 'ana';
     /*
-    para texto não se usa '' e sim ""
+    não se usa string para escrever na tela e para texto não se usa '' e sim ""
     */
 }
 }
