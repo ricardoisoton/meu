@@ -10,11 +10,11 @@ package ricardoisoton;
  */
 public class aula1303exercicio1 {
 public static void main (String[] args) {
-    int x  = 34;
+    int x  = 34.5;
     /*
     int é para numero inteiro e não decimal para decimal se usa float ou double
     */
-    boolean resp = true;
+    boolean resp = x;
     /*
     boolean só aceita true ou false
     */
@@ -22,15 +22,15 @@ public static void main (String[] args) {
     int y = g;
     y = y + 10;
     double t = 45;
-    float p = 32.7f;
+    float p = 32.7;
     /*
     faltou o f no numero para identificar
     */
-    char resp1='1';
+    char resp;
     /*
     não tem informação de caracter após o char e o resp ja esta no boolean
     */
-    String n = "ana";
+    String n = 'ana';
     /*
     texto não se usa '' e sim ""
     */
