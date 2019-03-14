@@ -31,7 +31,7 @@ public static void main (String[] args) {
     */
     char resp;
     /*
-    não tem informação de caracter após o char
+    não tem informação de caracter após o char e o resp ja esta no boolean
     */
     String n = 'ana';
     /*
