@@ -10,32 +10,29 @@ package ricardoisoton;
  */
 public class aula1303exercicio1 {
 public static void main (String[] args) {
-    int x  = 34.5;
+    int x  = 34;
     /*
     int é para numero inteiro e não decimal para decimal se usa float ou double
     */
-    boolean resp = x;
+    boolean resp = true;
     /*
     boolean só aceita true ou false
     */
     int g = 17;
     int y = g;
     y = y + 10;
-    /*
-    o y não tem como ser igual a soma dele mesmo
-    */
     double t = 45;
-    float p = 32.7;
+    float p = 32.7f;
     /*
     faltou o f no numero para identificar
     */
-    char resp;
+    char resp1='1';
     /*
     não tem informação de caracter após o char e o resp ja esta no boolean
     */
-    String n = 'ana';
+    String n = "ana";
     /*
-    não se usa string para escrever na tela e para texto não se usa '' e sim ""
+    texto não se usa '' e sim ""
     */
 }
 }
