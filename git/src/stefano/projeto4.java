@@ -9,7 +9,9 @@ package stefano;
  *
  * @author 19121054
  */
-public class OperadoresMatematicos {
+
+    
+public class projeto4 {
 
     /**
      * @param args the command line arguments
@@ -56,11 +58,35 @@ public class OperadoresMatematicos {
    y = y + 10;
     double t = 44d;
     float pa = 32.7f;
+    
+    { 
+        int a123 = 0;
+        int sal = 0;
+        int oneinterface = 0;
+        int _undernome = 0;        
+        int $$a = 0;
+        int valoresreais = 0;
+                
+                
+                }
  
-    
-    
-    
         
-
+        System.out.println (soma);
+        //soma = 1945 + 2019; 
+        //int 1945 = 0;
+        //int 2019 = 74;
+        
+        int soma_exe = 0;
+        int valor1= 2019;
+        int valor2= 1945;
+        
+        
+        soma_exe = valor1-valor1 ;
+         
+        System.out.println("a idade é "+soma_exe);   
+        
+        
     }
-}
+        
+        
+    }

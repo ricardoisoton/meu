@@ -15,5 +15,17 @@ public class ProgAula4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-    }    
-}
+        int a=10;
+        int b=10;
+        
+        if(a==b)
+        {
+            System.out.println("E Verdade");
+        }
+        else
+         {
+             System.out.println("E Falso");
+         }
+   }
+ }
+
