@@ -28,14 +28,14 @@ public class OperadoresMatematicos {
    
     soma = a + b;
     mult = a * b;
-    div   = a/ b;
+    div   = a / b;
     resto =  a%b;
     sub   = b-a;
     
     
     
-    System.out.println(soma);
-    System.out.println(mult);
+    System.out.println (soma);
+    System.out.println (mult);
     System.out.println (div); 
     System.out.println (resto);
     System.out.println (sub);  
@@ -46,14 +46,21 @@ public class OperadoresMatematicos {
     else
     {    
      System.out.println("E Falso") ;
+    
     }
   
-      
+    int x =  345; //.interiro recebe numeros flutuate
+   boolean resp =true; // booolen recebe apenas verdaewior ou als
+   int g = 17;
+   int y = g;
+   y = y + 10;
+    double t = 44d;
+    float pa = 32.7f;
+ 
     
     
     
-    
-    
+        
+
     }
-    
 }
