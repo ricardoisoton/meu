@@ -21,9 +21,6 @@ public static void main (String[] args) {
     int g = 17;
     int y = g;
     y = y + 10;
-    /*
-    o y não tem como ser igual a soma dele mesmo
-    */
     double t = 45;
     float p = 32.7;
     /*
@@ -31,11 +28,11 @@ public static void main (String[] args) {
     */
     char resp;
     /*
-    não tem informação de caracter após o char
+    não tem informação de caracter após o char e o resp ja esta no boolean
     */
     String n = 'ana';
     /*
-    não se usa string para escrever na tela e para texto não se usa '' e sim ""
+    texto não se usa '' e sim ""
     */
 }
 }
